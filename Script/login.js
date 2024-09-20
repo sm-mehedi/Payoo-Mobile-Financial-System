@@ -12,3 +12,4 @@ document.getElementById('btn-login').addEventListener('click',function(event){
     window.location.href='./home.html';
 
 })
+
